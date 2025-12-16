@@ -42,7 +42,7 @@ memory-ai-chat/
 ```
 ## 🧠 Architecture
 
-```nermaid
+```mermaid
 flowchart LR
     User --> Chat
     Chat -->|Query| MemorySearch
